@@ -15,15 +15,16 @@ https://www.youtube.com/watch?v=KhGWbt1dAKQ
 
 -->
 
-- 🌱 I’m currently learning Kotlin and Unity
+- 🌱 I’m currently learning Kotlin and Dart
 - 📫 How to reach me: @Xek0mb1k in telegram
-- ⚡ Fun fact: like coockie)
 
 ## My skils
 > Designe apps
 
-> Development a site on JS on CSS/Html
-
 > Development applications on Flutter
+
+> Development native android app on Kotlin/Java
+
+> Development a site on JS on CSS/Html
 
 > Development discord bot on Python
