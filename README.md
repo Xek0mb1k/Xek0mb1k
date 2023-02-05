@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=KhGWbt1dAKQ
 
 > Development a site on JS on CSS/Html
 
-> Development discord bot on Python
+> Development discord bot on Pytho
