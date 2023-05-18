@@ -21,10 +21,8 @@ https://www.youtube.com/watch?v=KhGWbt1dAKQ
 ## My skils
 > Designe apps
 
-> Development applications on Flutter
-
 > Development native android app on Kotlin/Java
 
-> Development a site on JS on CSS/Html
+> Development applications on Flutter
 
-> Development discord bot on Python
+> Development a site on CSS/Html/Js
